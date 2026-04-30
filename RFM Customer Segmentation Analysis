@@ -9,17 +9,10 @@ Performed Recency, Frequency, and Monetary (RFM) analysis on the Superstore reta
 - Detect at-risk and lost customers
 - Provide actionable insights for customer retention and marketing strategies
 
-### Methodology
-- Calculated Recency, Frequency, and Monetary scores
-- Assigned RFM scores (1–5 scale)
-- Created business-friendly customer segments (Best Customers, Loyal, At Risk, etc.)
-
-### Key Findings
-- Best Customers (top 10.7%) contribute significantly to total revenue
-- Large portion of revenue comes from "At Risk" and "Promising Customers"
-- Clear opportunities for targeted retention campaigns
-
 ### Tools
 - Python, Pandas, Plotly
+
+### Link
+- [View Project Notebook](https://colab.research.google.com/drive/1_Hsrg7VJeGktlesLddiExF5suUOiLkIt)
 
 **Demonstrates**: Customer segmentation, RFM analysis, and deriving actionable business insights from data.

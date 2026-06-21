@@ -1,1 +1,16 @@
-
+OrderID,Region,Segment,Category,Sales,Profit
+1001,East,Consumer,Technology,1200,300
+1002,West,Corporate,Furniture,800,150
+1003,East,Consumer,Technology,1500,400
+1004,South,Home Office,Office Supplies,600,120
+1005,West,Corporate,Furniture,900,200
+1006,East,Consumer,Technology,1800,500
+1007,South,Home Office,Office Supplies,700,150
+1008,West,Consumer,Technology,1600,450
+1009,East,Corporate,Furniture,1100,250
+1010,South,Home Office,Office Supplies,750,180
+1011,West,Consumer,Technology,1700,480
+1012,East,Corporate,Furniture,950,220
+1013,South,Home Office,Office Supplies,650,140
+1014,West,Consumer,Technology,1400,380
+1015,East,Corporate,Furniture,1000,240
